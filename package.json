@@ -1,0 +1,37 @@
+{
+  "name": "ratatoullie",
+  "version": "1.0.0",
+  "description": "Let's try.....",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jai-Rajput007/Demo_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jai-Rajput007/Demo_project/issues"
+  },
+  "homepage": "https://github.com/Jai-Rajput007/Demo_project#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.7",
+    "next": "^14.2.30",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.11",
+    "@types/node": "24.0.13",
+    "@types/react": "19.1.8",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.11",
+    "typescript": "5.8.3"
+  }
+}
